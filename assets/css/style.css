@@ -157,11 +157,16 @@ li a {
 
 .social {
 	float: left;
-	padding: 10px;
+	padding: 10px 20px 20px 20px;
 	background-color: #ffffff;
 	border: solid;
 	border-color: #dddddd;
-	width: 270px;
+	width: 224px;
+}
+
+.socialIcon {
+	float: left;
+	margin-right: 10px;
 }
 
 #wrapper {
